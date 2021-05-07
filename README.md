@@ -4,7 +4,9 @@ In this challenge, you will **deploy** an API of your choosing to Heroku.
 
 ## Instructions
 
+X
 You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support.
+X
 
 ### Task 1: Minimum Viable Product
 
